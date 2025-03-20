@@ -6,7 +6,7 @@
 
 void welcome()
 {
-    printf("Welcome to Guessing Game v1.0");
+    printf("Welcome to Guessing Game v1.0\n");
 }
 
 int main()
