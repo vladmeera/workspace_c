@@ -12,7 +12,7 @@ int main()
     srand(time(0));
 
     // generates random number between 1 and 6
-    int number1 = (rand() % 6) + 1;             // rand() function - random number between 0 and 32 767
+    int number1 = (rand() % 3);             // rand() function - random number between 0 and 32 767
 
     printf("%d", number1);
 
