@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <assert.h>
 #include <ctype.h>
-#include <FunctionPrototype.h>
+// #include <FunctionPrototype.h>
 
 
 void checkNumber(int num);

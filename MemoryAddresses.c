@@ -5,7 +5,7 @@ int main()
 {
     // memory - ann array of bytes within RAM (street)
     // memory block = a single unit (byte) within memory, used to hold some value (person)
-    // memor address = the address of where a memory block is loceted (house address)
+    // memory address = the address of where a memory block is loceted (house address)
 
     char a = 'X';
     char b = 'Y';
